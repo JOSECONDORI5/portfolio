@@ -269,94 +269,94 @@ html{
     font-size: 14px;
 }
 /* Estas clases se agregaran dinamicamente mediante javascript */
-.skills .skill .javascript{
+.skills .skill .java{
     width: 0%;
-    animation: 2s javascript forwards;
+    animation: 2s java forwards;
 }
-@keyframes javascript {
-    0%{width: 0%;}
-    100%{width: 75%;}
-}
-
-.skills .skill .htmlcss{
-    width: 0%;
-    animation: 2s htmlcss forwards;
-}
-@keyframes htmlcss {
-    0%{width: 0%;}
-    100%{width: 89%;}
-}
-
-.skills .skill .photoshop{
-    width: 0%;
-    animation: 2s photoshop forwards;
-}
-@keyframes photoshop {
-    0%{width: 0%;}
-    100%{width: 95%;}
-}
-
-.skills .skill .wordpress{
-    width: 0%;
-    animation: 2s wordpress forwards;
-}
-@keyframes wordpress {
-    0%{width: 0%;}
-    100%{width: 81%;}
-}
-
-.skills .skill .drupal{
-    width: 0%;
-    animation: 2s drupal forwards;
-}
-@keyframes drupal {
-    0%{width: 0%;}
-    100%{width: 55%;}
-}
-
-.skills .skill .comunicacion{
-    width: 0%;
-    animation: 2s comunicacion forwards;
-}
-@keyframes comunicacion {
+@keyframes java {
     0%{width: 0%;}
     100%{width: 80%;}
 }
 
-.skills .skill .trabajo{
+.skills .skill .git{
     width: 0%;
-    animation: 2s trabajo forwards;
+    animation: 2s git forwards;
 }
-@keyframes trabajo {
+@keyframes git {
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
+
+.skills .skill .angular{
+    width: 0%;
+    animation: 2s angular forwards;
+}
+@keyframes angular {
+    0%{width: 0%;}
+    100%{width: 60%;}
+}
+
+.skills .skill .spring{
+    width: 0%;
+    animation: 2s spring forwards;
+}
+@keyframes spring {
+    0%{width: 0%;}
+    100%{width: 40%;}
+}
+
+.skills .skill .docker{
+    width: 0%;
+    animation: 2s docker forwards;
+}
+@keyframes docker {
+    0%{width: 0%;}
+    100%{width: 55%;}
+}
+
+.skills .skill .jmeter{
+    width: 0%;
+    animation: 2s jmeter forwards;
+}
+@keyframes jmeter {
+    0%{width: 0%;}
+    100%{width: 45%;}
+}
+
+.skills .skill .jira{
+    width: 0%;
+    animation: 2s jira forwards;
+}
+@keyframes jira {
+    0%{width: 0%;}
+    100%{width: 55%;}
+}
+
+.skills .skill .mysql{
+    width: 0%;
+    animation: 2s mysql forwards;
+}
+@keyframes mysql {
     0%{width: 0%;}
     100%{width: 70%;}
 }
 
-.skills .skill .creatividad{
+.skills .skill .analysis{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 2s analysis forwards;
 }
-@keyframes creatividad {
+@keyframes analysis {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 80%;}
 }
 
-.skills .skill .dedicacion{
+.skills .skill .clean{
     width: 0%;
-    animation: 2s dedicacion forwards;
+    animation: 2s clean forwards;
 }
-@keyframes dedicacion {
+@keyframes clean {
     0%{width: 0%;}
-    100%{width: 65%;}
-}
-
-.skills .skill .proyect{
-    width: 0%;
-    animation: 2s proyect forwards;
-}
-@keyframes proyect {
-    0%{width: 0%;}
-    100%{width: 94%;}
+    100%{width: 80%;}
 }
 /* SECCION CURRICULUM */
 .curriculum{
